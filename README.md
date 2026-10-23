@@ -294,3 +294,9 @@ This script is provided as-is for use within Microsoft 365 environments.
 ---
 
 **💡 Tip:** For best results, ensure users are actively reporting suspicious emails through Outlook's built-in reporting features or the Report Message add-in.
+
+---
+
+## Disclaimer
+
+This is a personal project I maintain in an individual capacity. It is **not an official Microsoft product** and is not endorsed, reviewed, or supported by Microsoft. All opinions, code, and content here are my own and do not represent the views of my employer. Provided **"as-is"**, with no warranty — use at your own risk.
